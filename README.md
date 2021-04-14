@@ -8,6 +8,7 @@ This repository has 4 files.
 # Requirements
 1.[filterpy](https://pypi.org/project/filterpy/)
 2.[matplotlib](https://pypi.org/project/matplotlib/)
+3.[SORT](https://github.com/abewley/sort)
 
 # Sample Usage
 `python3.6 sort_tracker_stationary.py` 
